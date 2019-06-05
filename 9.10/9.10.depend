@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559698026 source:c:\users\admin\documents\9.10\main.cpp
+	<iostream>
+	"Time.h"
+
+1559698026 c:\users\admin\documents\9.10\include\time.h
+
